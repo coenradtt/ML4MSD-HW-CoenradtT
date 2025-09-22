@@ -1,0 +1,3 @@
+0:42:52
+nodes - ntasks_per_node - cpus_per_task - mem_per_cpu [MB],1-20-1-6144
+Ecutoff [eV] - k1 - k2 - k3,850-14-6-1
