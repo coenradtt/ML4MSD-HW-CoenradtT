@@ -1,5 +1,5 @@
 [project]
-name = "ml4msd-mlip"
+name = "ml4msd-mlip2"
 version = "0.1.0"
 description = "Environment for MatCalc and MACE"
 readme = "README.md"
