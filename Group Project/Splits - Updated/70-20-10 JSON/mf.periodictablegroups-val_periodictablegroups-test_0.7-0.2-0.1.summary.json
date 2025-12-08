@@ -1,0 +1,69 @@
+{
+    "create_train_validation_test_splits": {
+        "split_type_validation": "periodictablegroups",
+        "split_type_test": "periodictablegroups",
+        "train_fraction": 0.7,
+        "validation_fraction": 0.2,
+        "test_fraction": 0.1,
+        "fraction_tolerance": 0.05,
+        "keep_n_elements_in_train": [],
+        "default_train": [],
+        "default_validation": [],
+        "default_test": [],
+        "n_validation_min": 1,
+        "n_test_min": 1
+    },
+    "train_fraction_actual": 0.7159763313609467,
+    "validation_fraction_actual": 0.17196745562130178,
+    "test_fraction_actual": 0.11205621301775148,
+    "n_train": 13552,
+    "n_validation": 3255,
+    "n_test": 2121,
+    "naive_random_split_trainval_test": false,
+    "naive_random_split_train_val": false,
+    "n_train_set_labels": 15,
+    "n_validation_set_labels": 1,
+    "n_trainvalidation_set_labels": 16,
+    "n_test_set_labels": 1,
+    "train_set_labels": [
+        "group9",
+        "group12",
+        "group3",
+        "group5",
+        "group14",
+        "group17",
+        "group16",
+        "group4",
+        "group10",
+        "group1",
+        "group11",
+        "group7",
+        "group2",
+        "group6",
+        "group15"
+    ],
+    "validation_set_labels": [
+        "group13"
+    ],
+    "trainvalidation_set_labels": [
+        "group12",
+        "group1",
+        "group14",
+        "group16",
+        "group7",
+        "group5",
+        "group17",
+        "group11",
+        "group3",
+        "group13",
+        "group10",
+        "group15",
+        "group6",
+        "group4",
+        "group2",
+        "group9"
+    ],
+    "test_set_labels": [
+        "group8"
+    ]
+}

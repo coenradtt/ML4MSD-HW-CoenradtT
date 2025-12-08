@@ -1,0 +1,29 @@
+{
+    "MatFold": "v1.3.3",
+    "__init__": {
+        "return_frac": 1.0,
+        "always_include_n_elements": null,
+        "cols_to_keep": null,
+        "keep_splitlabel_cols": false,
+        "write_data_checksums": false,
+        "seed": 0
+    },
+    "split_function_called": "create_train_validation_test_splits",
+    "split_parameters": {
+        "split_type_validation": "chemsys",
+        "split_type_test": "chemsys",
+        "train_fraction": 0.7,
+        "validation_fraction": 0.2,
+        "test_fraction": 0.1,
+        "fraction_tolerance": 0.05,
+        "keep_n_elements_in_train": [],
+        "default_train": [],
+        "default_validation": [],
+        "default_test": [],
+        "n_validation_min": 1,
+        "n_test_min": 1,
+        "write_base_str": "mf",
+        "output_dir": "/Users/coenradttaylor/Documents/GitHub/ML4MSD-HW-CoenradtT/Group Project",
+        "verbose": false
+    }
+}
